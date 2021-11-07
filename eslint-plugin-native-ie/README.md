@@ -1,5 +1,7 @@
 # eslint-plugin-native-ie
 
+[![npm version](https://badge.fury.io/js/eslint-plugin-native-ie.svg)](https://badge.fury.io/js/eslint-plugin-native-ie)
+
 This is a plugin for eslint that checks the grammar of es6, which does not work with Internet explorer.
 
 ## Example
