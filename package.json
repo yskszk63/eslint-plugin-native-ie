@@ -1,0 +1,9 @@
+{
+  "name": "workspaces",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "eslint-plugin-native-ie",
+    "example"
+  ]
+}
