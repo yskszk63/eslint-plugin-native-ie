@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-native-ie",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This is a plugin for eslint that checks the grammar of es6, which does not work with Internet explorer.",
   "main": "./dist/index.js",
   "scripts": {
