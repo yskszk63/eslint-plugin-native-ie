@@ -22,7 +22,7 @@
     "eslint-plugin-eslint-plugin": "^4.0.2",
     "eslint-plugin-node": "^11.1.0",
     "jest": "^27.0.0",
-    "rollup": "^2.59.0",
+    "rollup": "^2.80.0",
     "rollup-plugin-swc": "^0.2.0"
   },
   "peerDependencies": {
